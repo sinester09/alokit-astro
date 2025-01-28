@@ -1,6 +1,6 @@
 # React, Astro, and Vite Boilerplate with Authentication
 
-This is a simple boilerplate project to help you get started with React, Astro, and Vite.
+Project to help you get started with React, Astro, and Vite.
 
 ## Features
 
@@ -14,7 +14,7 @@ This is a simple boilerplate project to help you get started with React, Astro, 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/react-astro-vite-boilerplate.git
+   download clone https://alosistemas.com
    cd react-astro-vite-boilerplate
    ```
 
@@ -46,3 +46,5 @@ src/
 - React 18+
 - Astro 2.0+
 - Vite 4.0+
+
+  *********** made by ALO SISTEMAS *****************+ 20250122
